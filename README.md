@@ -1,2 +1,2 @@
-# shop-website
-it's a shop website
+# landing-page
+it's a landing page
